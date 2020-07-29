@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![I am GitHub read me generator creator](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-small.gif)
+
 <!--
 **cristiansep/cristiansep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

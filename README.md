@@ -3,7 +3,7 @@
  <hr/>
  <br/>
 
-  <a href="https://twitter.com/cristiansep">
+  <a href="https://twitter.com/crist_sepulveda">
     <img align="left" alt="Cristian | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
   <a href="https://www.linkedin.com/in/cristiansep">

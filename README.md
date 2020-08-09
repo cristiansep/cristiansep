@@ -1,9 +1,16 @@
 ### Hi there <img src="https://media2.giphy.com/media/gUNA7QH4AeLde/200w.webp?cid=790b7611vph43j67am4s68pewwqzjghcr2zu1kj4tp4ndznc&rid=200w.webp" width="40">
 
- <p>
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:10px">  
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px">  
- </p>
+  <a href="https://twitter.com/8bithemant">
+    <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/hemant.gz/">
+    <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+
+
 
 ![I am GitHub read me generator creator](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 

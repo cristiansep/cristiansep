@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media2.giphy.com/media/gUNA7QH4AeLde/200w.webp?cid=790b7611vph43j67am4s68pewwqzjghcr2zu1kj4tp4ndznc&rid=200w.webp" width="40">
 
  <p>
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px">  
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:10px">  
    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px">  
  </p>
 

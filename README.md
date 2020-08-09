@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 ![I am GitHub read me generator creator](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
 

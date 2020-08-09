@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media2.giphy.com/media/gUNA7QH4AeLde/200w.webp?cid=790b7611vph43j67am4s68pewwqzjghcr2zu1kj4tp4ndznc&rid=200w.webp" width="40">
 
- <br/>
  <hr/>
+ <br/>
 
   <a href="https://twitter.com/8bithemant">
     <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />

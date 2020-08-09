@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media2.giphy.com/media/gUNA7QH4AeLde/200w.webp?cid=790b7611vph43j67am4s68pewwqzjghcr2zu1kj4tp4ndznc&rid=200w.webp" width="40">
 
  <p>
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">  
-   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:4px">  
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px">  
+   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px">  
  </p>
 
 ![I am GitHub read me generator creator](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
